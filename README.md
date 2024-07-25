@@ -12,8 +12,8 @@ This repository contains a Personalized Medicine Recommendation System built usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personalized-medicine-recommendation.git
-   cd personalized-medicine-recommendation
+   git clone https://github.com/Murasajo/AI-Clinic-Personalized-App.git
+   cd AI-Clinic-Personalized-App
    ```
 
 2. Install the required packages:
@@ -73,14 +73,4 @@ Joseph Murasa Dushimimana
 - LinkedIn: [Dushimimana Murasa Joseph](https://linkedin.com/in/dushimimana-murasa-joseph-7b5317247/)
 - Email: dushimimanamurasajoseph@gmail.com
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-### Description of the App
-
-The Personalized Medicine Recommendation System is a web application designed to assist users in identifying potential diseases based on their symptoms. By selecting symptoms from a comprehensive list, users receive predictions of possible diseases, along with detailed medical recommendations, including descriptions, precautions, medications, diets, and workout suggestions. The app leverages machine learning models to ensure accurate and reliable predictions, providing a valuable tool for personalized healthcare management.
-
----
